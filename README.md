@@ -9,3 +9,16 @@ This project is implemented as relatively simple Python code that relies on BLAS
 
 Basic use:
 
+#use an appropriate virutal environment with prerequistes installed.
+
+python3 PlasMap_Input.py ../Path_to_folder/with/all_genbank_files_for_comparison Reference.gb
+
+creates output directory-> ../Path_to_folder/with/all_genbank_files_for_comparison_PlasMap
+Fill in PlasMap_input.xlsx - use color names found in PlasMap_color_Ref.xlsx
+Place any discriptions you wish to carry over automatically to new plasmid analyses into PlasMap_Defaults.xlsx
+
+#default directory created when running example code above shown for PlasMap directory located.
+python3 PlasMap_Image.py ../Path_to_folder/with/all_genbank_files_for_comparison Reference.gb ../Path_to_folder/with/all_genbank_files_for_comparison_PlasMap {font size, integer}
+
+You can re-run the above code after changing and saving PlasMap_Input.xlsx
+It will overwrite this analysis.
