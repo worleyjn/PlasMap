@@ -9,6 +9,13 @@ This project is implemented as relatively simple Python code that relies on BLAS
 
 Basic use:
 
+Virtual/Python environment must have the following packages installed:
+pandas
+BioPython
+reportlab
+matplotlib
+Basic, nomrally installed tools os, sys, Ipython, and itertools should also be installed. Many/most/all are included with standard installations through miniforge/anaconda
+
 #use an appropriate virutal environment with prerequistes installed.
 
 python3 PlasMap_Input.py ../Path_to_folder/with/all_genbank_files_for_comparison Reference.gb
