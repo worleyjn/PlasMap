@@ -54,6 +54,8 @@ Ensure you have all dependencies installed. Note: The conda channel "bioconda" i
 
 Navigate to the PlasMap home directory containing PlasMap_Input.py and PlasMap_Image.py
 
+Runtime for the demo should be less than a minute if running properly.
+
 Run: python3 PlasMap_Input.py Demo/NDM1_FIB_CP014757 NZ_CP014757.gb
 
 There should be a new folder Demo/NDM1_FIB_CP014757_PlasMap
