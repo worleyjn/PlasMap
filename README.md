@@ -22,6 +22,8 @@ Basic tools included in most Python installations are also required: os, sys, an
 
 BLAST (2.17.0+) must also be installed to the command line. Any current version should work.
 
+Installation should only take a few minutes of actual time, plus any time that is system specific. I have tested both windows and OSX installations.
+
 Running the program:
 
 1) Place GenBank files for all plasmids you wish to compare plus the reference genbank
