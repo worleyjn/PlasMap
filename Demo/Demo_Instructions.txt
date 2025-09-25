@@ -1,1 +1,0 @@
-This file will contain instructions to complete a demo with the files in this directory.
