@@ -6,7 +6,7 @@ This software has two functions:
 
 2) Provide an automated analysis to find new genes that may be plasmid associated. This program maps annotated regions of contigs with significant plasmid homology. This can be especially helpful for draft genome assemblies created with Illumina technologies where multiple such contigs may exist.
 
-It BLASTs the non-reference sequences against the reference sequence, then creates a map of the referecne and a representation of regions of homology similar to BRIG (Alikhan, 2011, BMC Genomics). It then identifies contigs with significant overlap that also contain unaligned regions and provides a tabular and visual representation for analysis using BioPython's GenomeDiagram, which uses ReportLab.
+It BLASTs the non-reference sequences against the reference sequence, then creates a map of the referecne and a representation of regions of homology similar to BRIG (Alikhan, 2011, BMC Genomics). It then identifies contigs with significant overlap that also contain unaligned regions and provides a tabular and visual representation for analysis. Visual representations are made using BioPython's GenomeDiagram, which uses ReportLab.
 
 This project is implemented as relatively simple Python code that relies on BLAST for gene associations.
 
