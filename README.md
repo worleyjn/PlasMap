@@ -14,14 +14,13 @@ This program uses annotated genbank files including sequence information as inpu
 
 A closed reference plasmid is recommended for the output of this program to make sense.
 
-Use of Miniforge 3 or Anaconda 3 as a package manager is strongly recommended.
+Use of Miniforge 3 or Anaconda 3 as a package manager is strongly recommended. We tested the program with the following versions, but it will likely work on earlier versions of most packages:
+python 3 (3.13.7) environment must have the following packages installed:
+pandas (2.3.2), BioPython (1.85), reportlab (4.4.4), matplotlib (3.10.6), Ipython (9.5.0), xlrd (2.0.2), openpyxl (3.1.5), xlsxwriter (3.2.6)
 
-The Python 3 (3.10+) environment must have the following packages installed:
-pandas, BioPython, reportlab, matplotlib, Ipython, xlrd, openpyxl, xlsxwriter
+Basic tools included in most Python installations are also required: os, sys, and itertools.
 
-Basic tools included in most Python installation packages are also required: os, sys, and itertools.
-
-BLAST must also be installed to the command line. Any current version should work.
+BLAST (2.17.0+) must also be installed to the command line. Any current version should work.
 
 Running the program:
 
