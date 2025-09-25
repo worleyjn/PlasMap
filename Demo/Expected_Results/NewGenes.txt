@@ -1,0 +1,148 @@
+HBH_3065_22_ST147.gb
+DAZTLH010000039.1; Length = 10720; Mapped bases = 10720
+DAZTLH010000044.1; Length = 8112; Mapped bases = 8112
+DAZTLH010000045.1; Length = 7808; Mapped bases = 7808
+DAZTLH010000040.1; Length = 10173; Mapped bases = 10173
+DAZTLH010000053.1; Length = 4398; Mapped bases = 4398
+DAZTLH010000054.1; Length = 4373; Mapped bases = 4373
+DAZTLH010000056.1; Length = 3388; Mapped bases = 3388
+DAZTLH010000103.1; Length = 3259; Mapped bases = 3259
+DAZTLH010000105.1; Length = 2395; Mapped bases = 2395
+DAZTLH010000106.1; Length = 2250; Mapped bases = 2250
+DAZTLH010000107.1; Length = 1921; Mapped bases = 1921
+DAZTLH010000109.1; Length = 1520; Mapped bases = 1520
+DAZTLH010000075.1; Length = 1088; Mapped bases = 1088
+DAZTLH010000034.1; Length = 32784; Mapped bases = 1018
+	Up=121	Down=961		['aldo/keto reductase']
+	Up=957	Down=1437		['cyclophilin-like fold protein']
+	Up=1574	Down=1739		['Tn3 family transposase']
+	Up=2021	Down=2252		['hypothetical protein']
+	Up=2437	Down=4213		['ABC transporter permease subunit']
+	Up=4231	Down=5758		['ABC transporter substrate-binding protein']
+	Up=5768	Down=7013		['MDR family MFS transporter']
+	Up=7039	Down=7873		['ABC transporter ATP-binding protein']
+	Up=7869	Down=8679		['ATP-binding cassette domain-containing protein']
+	Up=8907	Down=9645		['M20/M25/M40 family metallo-hydrolase']
+	Up=10058	Down=11090		['IS630-like element ISEc33 family transposase']
+	Up=11138	Down=11285		['hypothetical protein']
+	Up=11318	Down=11444		['hypothetical protein']
+	Up=11447	Down=11933		['hypothetical protein']
+	Up=13391	Down=13892		['Fur family transcriptional regulator']
+	Up=14036	Down=14438		['phosphoribosyl-AMP cyclohydrolase']
+	Up=14474	Down=15698		['zinc metallochaperone GTPase ZigA']
+	Up=15964	Down=17614		['nucleoside recognition domain-containing protein']
+	Up=17625	Down=18756		['NAD(P)/FAD-dependent oxidoreductase']
+	Up=18826	Down=20209		['cysteine--tRNA ligase']
+	Up=20290	Down=20743		['Fur family transcriptional regulator']
+	Up=20840	Down=22040		['GTP-binding protein']
+	Up=22110	Down=22533		['RNA polymerase-binding protein DksA']
+	Up=22596	Down=23532		['GTP cyclohydrolase FolE2']
+	Up=23521	Down=24082		['carbonate dehydratase']
+	Up=24211	Down=25078		['isocitrate dehydrogenase']
+	Up=25094	Down=25919		['DUF1460 domain-containing protein']
+	Up=26348	Down=27350		['His/Gly/Thr/Pro-type tRNA ligase C-terminal domain-containing protein']
+	Up=27342	Down=28194		['M14 family metallocarboxypeptidase']
+	Up=28190	Down=29537		['dihydroorotase']
+	Up=29600	Down=30623		['porphobilinogen synthase']
+	Up=30797	Down=31193		['transposase']
+	Up=31188	Down=32416		['IS3 family transposase']
+DAZTLH010000083.1; Length = 605; Mapped bases = 605
+
+
+HBH_556_19_ST147.gb
+DAZTKI010000030.1; Length = 35675; Mapped bases = 35675
+DAZTKI010000035.1; Length = 16774; Mapped bases = 16774
+DAZTKI010000079.1; Length = 3260; Mapped bases = 3260
+DAZTKI010000083.1; Length = 2167; Mapped bases = 2167
+DAZTKI010000058.1; Length = 746; Mapped bases = 746
+
+
+HBH_3009_20_ST147.gb
+DAZTKL010000035.1; Length = 29049; Mapped bases = 29049
+DAZTKL010000048.1; Length = 7809; Mapped bases = 7809
+DAZTKL010000053.1; Length = 4416; Mapped bases = 4416
+DAZTKL010000057.1; Length = 3388; Mapped bases = 3388
+DAZTKL010000103.1; Length = 3260; Mapped bases = 3260
+DAZTKL010000104.1; Length = 3066; Mapped bases = 3066
+DAZTKL010000105.1; Length = 3046; Mapped bases = 3046
+DAZTKL010000107.1; Length = 2250; Mapped bases = 2250
+DAZTKL010000064.1; Length = 2183; Mapped bases = 2183
+DAZTKL010000108.1; Length = 1920; Mapped bases = 1920
+DAZTKL010000063.1; Length = 2366; Mapped bases = 1578
+	Up=1648	Down=2122		['trimethoprim-resistant dihydrofolate reductase DfrA5']
+	Up=2277	Down=2366		['hypothetical protein']
+DAZTKL010000109.1; Length = 1533; Mapped bases = 1533
+DAZTKL010000072.1; Length = 1088; Mapped bases = 1088
+DAZTKL010000039.1; Length = 21669; Mapped bases = 1018
+	Up=23	Down=170		['hypothetical protein']
+	Up=203	Down=329		['hypothetical protein']
+	Up=332	Down=818		['hypothetical protein']
+	Up=2276	Down=2777		['Fur family transcriptional regulator']
+	Up=2921	Down=3323		['phosphoribosyl-AMP cyclohydrolase']
+	Up=3359	Down=4583		['zinc metallochaperone GTPase ZigA']
+	Up=4849	Down=6499		['nucleoside recognition domain-containing protein']
+	Up=6510	Down=7641		['NAD(P)/FAD-dependent oxidoreductase']
+	Up=7711	Down=9094		['cysteine--tRNA ligase']
+	Up=9175	Down=9628		['Fur family transcriptional regulator']
+	Up=9725	Down=10925		['GTP-binding protein']
+	Up=10995	Down=11418		['RNA polymerase-binding protein DksA']
+	Up=11481	Down=12417		['GTP cyclohydrolase FolE2']
+	Up=12406	Down=12967		['carbonate dehydratase']
+	Up=13096	Down=13963		['isocitrate dehydrogenase']
+	Up=13979	Down=14804		['DUF1460 domain-containing protein']
+	Up=15233	Down=16235		['His/Gly/Thr/Pro-type tRNA ligase C-terminal domain-containing protein']
+	Up=16227	Down=17079		['M14 family metallocarboxypeptidase']
+	Up=17075	Down=18422		['dihydroorotase']
+	Up=18485	Down=19508		['porphobilinogen synthase']
+	Up=19682	Down=20078		['transposase']
+	Up=20073	Down=21301		['IS3 family transposase']
+DAZTKL010000084.1; Length = 605; Mapped bases = 605
+
+
+HBH_1520_21_ST147.gb
+DAZTKV010000035.1; Length = 25362; Mapped bases = 25362
+DAZTKV010000041.1; Length = 7809; Mapped bases = 7809
+DAZTKV010000046.1; Length = 4416; Mapped bases = 4416
+DAZTKV010000088.1; Length = 3571; Mapped bases = 3571
+DAZTKV010000049.1; Length = 3389; Mapped bases = 3389
+DAZTKV010000090.1; Length = 3261; Mapped bases = 3261
+DAZTKV010000091.1; Length = 3066; Mapped bases = 3066
+DAZTKV010000055.1; Length = 2311; Mapped bases = 2311
+DAZTKV010000093.1; Length = 2250; Mapped bases = 2250
+DAZTKV010000056.1; Length = 2203; Mapped bases = 2203
+DAZTKV010000094.1; Length = 1922; Mapped bases = 1922
+DAZTKV010000054.1; Length = 2366; Mapped bases = 1578
+	Up=1648	Down=2122		['trimethoprim-resistant dihydrofolate reductase DfrA5']
+	Up=2277	Down=2366		['hypothetical protein']
+DAZTKV010000095.1; Length = 1533; Mapped bases = 1533
+DAZTKV010000065.1; Length = 1088; Mapped bases = 1088
+DAZTKV010000062.1; Length = 1332; Mapped bases = 902
+	Up=260	Down=1332		['IS110 family transposase']
+DAZTKV010000037.1; Length = 14902; Mapped bases = 1018
+	Up=0	Down=425		['GTP-binding protein']
+	Up=461	Down=863		['phosphoribosyl-AMP cyclohydrolase']
+	Up=1007	Down=1508		['Fur family transcriptional regulator']
+	Up=2966	Down=3452		['hypothetical protein']
+	Up=3455	Down=3581		['hypothetical protein']
+	Up=3614	Down=3761		['hypothetical protein']
+	Up=3809	Down=4841		['IS630-like element ISEc33 family transposase']
+	Up=5254	Down=5992		['M20/M25/M40 family metallo-hydrolase']
+	Up=6220	Down=7030		['ATP-binding cassette domain-containing protein']
+	Up=7026	Down=7860		['ABC transporter ATP-binding protein']
+	Up=7886	Down=9131		['MDR family MFS transporter']
+	Up=9141	Down=10668		['ABC transporter substrate-binding protein']
+	Up=10686	Down=12462		['ABC transporter permease subunit']
+	Up=12647	Down=12878		['hypothetical protein']
+	Up=13160	Down=13325		['Tn3 family transposase']
+	Up=13462	Down=13942		['cyclophilin-like fold protein']
+	Up=13938	Down=14778		['aldo/keto reductase']
+DAZTKV010000070.1; Length = 605; Mapped bases = 605
+
+
+HBH_110_20_ST147.gb
+DAZTKO010000028.1; Length = 35765; Mapped bases = 35765
+DAZTKO010000031.1; Length = 16774; Mapped bases = 16774
+DAZTKO010000067.1; Length = 3260; Mapped bases = 3260
+DAZTKO010000070.1; Length = 2167; Mapped bases = 2167
+
+
